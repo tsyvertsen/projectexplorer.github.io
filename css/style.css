@@ -111,12 +111,7 @@ footer ul {
     color:#ffffff;
     list-style-type:square;
       }
-footer a{
-color:#F5DEB3;
-}
-.social a{
-    color: blue;
-}
+
 
 .wrapper {
     margin: 0 auto;
@@ -129,15 +124,26 @@ color:#F5DEB3;
 }
 
 .third {
+    margin-top: 10px;
     float: left;
     padding-right: 2%; 
-    width: 32%;
+    width: 25%;
 }
 
 .twothird {
     float: left;
     padding-right: 8%; 
     width: 58%;    
+}
+.social a{
+    font-family: sans-serif ;
+    color: blue;
+    text-decoration: none;
+    
+}
+.social {
+padding-top: 5px;
+    
 }
 
 .half {
